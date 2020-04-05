@@ -3,7 +3,7 @@ import 'package:provider/provider.dart';
 import 'package:task_manager/models/task.dart';
 import 'package:task_manager/models/task_manager.dart';
 
-class NewTaskManagerScreen extends StatelessWidget {
+class NewTaskScreen extends StatelessWidget {
   final TextEditingController _controller = TextEditingController();
 
   @override
